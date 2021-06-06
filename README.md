@@ -1,1 +1,1 @@
-# simple-command-php-shell
+# PHP web shell
