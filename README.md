@@ -1,3 +1,3 @@
 # PHP web shell
 
-# NO ILLEGAL USE WITH MY PHP SHELL AND BACKDOOR. I AM NOT RESPONSIBLE IF YOU ABUSE WITH IT!!
+# Do not upload it to any server without owners permission!!
