@@ -1,3 +1,5 @@
 # PHP web shell
 
-# Educational purposes only!
+# Only for educational purpose!
+
+# Do not upload it to production environment!
